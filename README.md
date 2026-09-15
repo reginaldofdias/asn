@@ -12,7 +12,7 @@ Teste de repositório
 
 
 
-\### Episodio 02
+\### Episodio 02 -Instalação ambiente Mac
 
 
 
