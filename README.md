@@ -4,11 +4,11 @@ Teste de repositório
 
 
 
-\## Aula 01
+\## Aula 01 - Instalação
 
+&#x20;
 
-
-\### Episodio 01
+\### Episodio 01 - Instalação Windows
 
 
 
@@ -17,8 +17,4 @@ Teste de repositório
 
 
 \### Episodio 03
-
-
-
-
 
